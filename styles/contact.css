@@ -606,7 +606,7 @@ nav .follow-links a:nth-child(5){
 /* Scroll Up Section */
 #scrollUp{
     position: fixed;
-    bottom: 10px;
+    bottom: 120px;
     right: 10px;
 }
 #scrollUp i{
